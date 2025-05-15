@@ -2,11 +2,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300" alt="Developer Coding GIF" />
 </p>
 
-<h2 align="center">Hiren Tandel 👨‍💻</h2>
-
-
-
-
 <h1 align="center">Hi there, I'm Hiren 👋</h1>
 
 <p align="center">
