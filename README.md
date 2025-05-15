@@ -1,4 +1,9 @@
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="100%" alt="Hey There GIF" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="150" alt="Developer Coding GIF" />
+</p>
+
+<h2 align="center">Hiren Tandel 👨‍💻</h2>
+
 
 
 
