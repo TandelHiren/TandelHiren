@@ -1,4 +1,5 @@
-<img src="https://github.com/meviru/meviru/blob/main/obi-wan-kenobi-hello-there-6f7mjdtmf8kwrhta.gif" width="100%" alt="Hello There GIF" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Coding GIF" />
+
 
 <h1 align="center">Hi there, I'm Hiren 👋</h1>
 
