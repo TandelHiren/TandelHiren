@@ -1,16 +1,41 @@
-## Hi there 👋
+<img src="https://github.com/meviru/meviru/blob/main/obi-wan-kenobi-hello-there-6f7mjdtmf8kwrhta.gif" width="100%" alt="Hello There GIF" />
 
-<!--
-**TandelHiren/TandelHiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Hiren 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+💻 Frontend Developer & Creative Technologist <br/>
+🌐 Building engaging web interfaces & digital experiences <br/>
+🎨 Passionate about UI/UX & modern web tools
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🧑‍💻 I'm **Hiren Tandel** – passionate about crafting immersive, fast, and scalable frontend solutions.
+- 🚀 Currently diving deeper into **React**, **Node.js**, and **Full-stack development**.
+- 🤝 Open to collaborating with talented **backend developers** and creative teams.
+- 📫 Reach out to me at: [**hiren.tandel1217@gmail.com**](mailto:hiren.tandel1217@gmail.com)
+
+---
+
+## 🧰 Tech Stack
+
+### ⚛️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux,next,vue,angular,threejs,jquery,bootstrap,tailwind,styledcomponents,wordpress,webflow" />
+</p>
+
+### 🧩 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,photoshop,xd,azure,jira,trello" />
+</p>
+
+### 🌱 Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql" />
+</p>
+
+---
+
+> 🚧 *Always learning. Always building. Always open to new opportunities!*
