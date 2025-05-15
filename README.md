@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Coding GIF" />
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="100%" alt="Hey There GIF" />
+
 
 
 <h1 align="center">Hi there, I'm Hiren 👋</h1>
